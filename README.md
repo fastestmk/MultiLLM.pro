@@ -11,7 +11,7 @@ You're switching tabs, re-typing the same prompt three times, trying to remember
 
 ## There's a Better Way
 
-**[MultiLLM](https://www.multillm.pro)** puts GPT, Claude, and Gemini in the same window.
+**[MultiLLM.pro](https://www.multillm.pro)** puts GPT, Claude, and Gemini in the same window.
 One prompt. Three answers. Instant comparison.
 
 You finally get to see what each model is actually good at — without the tab-switching, the re-logging-in, or the three separate subscriptions bleeding your wallet.
