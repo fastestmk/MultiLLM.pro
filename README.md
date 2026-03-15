@@ -1,4 +1,4 @@
-![MultiLLM Logo](file:///home/fastestmk/Downloads/multillm_logo_indigo_600_300*300.png)
+![MultiLLM Logo](multillm_logo_indigo_600_300*300.png)
 
 # MultiLLM.pro — The Smartest Way to Use AI in 2026
 
