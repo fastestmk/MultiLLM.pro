@@ -13,7 +13,7 @@ You're switching tabs, re-typing the same prompt three times, trying to remember
 
 ## There's a Better Way
 
-**![](multillm_logo_emoji.png) [MultiLLM.pro](https://www.multillm.pro)** puts GPT, Claude, and Gemini in the same window.
+**<img src="multillm_logo.png" height="20"> [MultiLLM.pro](https://www.multillm.pro)** puts GPT, Claude, and Gemini in the same window.
 One prompt. Three answers. Instant comparison.
 
 You finally get to see what each model is actually good at — without the tab-switching, the re-logging-in, or the three separate subscriptions bleeding your wallet.
@@ -89,7 +89,7 @@ Every month you're paying for two or three separate subscriptions, you're overpa
 
 No credit card required. No complicated setup. Just sign in and start comparing.
 
-### ![](multillm_logo_emoji.png) [multillm.pro](https://www.multillm.pro)
+### <img src="multillm_logo.png" height="20"> [multillm.pro](https://www.multillm.pro)
 
 ---
 
