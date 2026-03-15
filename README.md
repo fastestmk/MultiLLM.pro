@@ -1,4 +1,4 @@
-![MultiLLM Logo](multillm_logo_indigo_600_300*300.png)
+![MultiLLM Logo](multillm_logo.png)
 
 # MultiLLM.pro — The Smartest Way to Use AI in 2026
 
@@ -13,7 +13,7 @@ You're switching tabs, re-typing the same prompt three times, trying to remember
 
 ## There's a Better Way
 
-**[MultiLLM.pro](https://www.multillm.pro)** puts GPT, Claude, and Gemini in the same window.
+**![](multillm_logo_emoji.png) [MultiLLM.pro](https://www.multillm.pro)** puts GPT, Claude, and Gemini in the same window.
 One prompt. Three answers. Instant comparison.
 
 You finally get to see what each model is actually good at — without the tab-switching, the re-logging-in, or the three separate subscriptions bleeding your wallet.
@@ -89,7 +89,7 @@ Every month you're paying for two or three separate subscriptions, you're overpa
 
 No credit card required. No complicated setup. Just sign in and start comparing.
 
-### [multillm.pro](https://www.multillm.pro)
+### ![](multillm_logo_emoji.png) [multillm.pro](https://www.multillm.pro)
 
 ---
 
